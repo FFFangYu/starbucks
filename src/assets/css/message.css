@@ -1,0 +1,33 @@
+.mint-header h1 {
+  font-size: 14px;
+  font-weight: 550;
+  text-align: center;
+  margin: 0;
+  padding: 10px 0;
+}
+.mui-slider{
+    background-color: white;
+}
+.message-indicator {
+    font-size: 14px;
+    bottom: 8px;
+    width: 100%;
+    text-align: left;
+    background: 0 0;
+}
+.message-indicator a{
+    color: black;
+}
+.mui-control-item {
+    text-align: center;
+    line-height: 38px;
+    display: inline-block;
+    width: 20%;
+    overflow: visible;
+}
+
+/* 滚动条的显示 */
+.mui-active{
+    font-weight: bolder;
+    border-bottom: 2px solid #0BAC69!important;
+}
